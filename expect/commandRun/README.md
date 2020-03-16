@@ -2,7 +2,7 @@
 Perl의 Expect 모듈을 이용하여 원격으로 로그인 후 입력된 명령을 수행하는 코드입니다.  
 >
 ```bash
-#commandExpect.pl -h [host] -u [userId] -p [userPassword] -rp [host's root password] -C [Command String]
+#commandRun.pl -h [host] -u [userId] -p [userPassword] -rp [host's root password] -C [Command String]
 ```
 # Options
   - -F [filePath] : 파일 모드로 수행. filePath는 원격에서 실행할 명령어 파일
