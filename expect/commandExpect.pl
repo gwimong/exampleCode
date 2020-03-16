@@ -25,10 +25,6 @@ use constant {
 	RUN_COMMAND => 1,
 	RUN_FILE => 2,
 
-	# connect mode
-	CONNECT_ROOT => 1,
-	CONNECT_USER => 2,
-
 	# connect count
 	MAX_CONNECT_COUNT => 3
 };
